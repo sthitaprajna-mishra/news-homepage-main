@@ -1,0 +1,54 @@
+main .hero-section {
+  grid-column: span 8;
+  display: flex;
+  flex-direction: column;
+  padding-right: 2rem;
+}
+
+main .hero-section img {
+  width: 100%;
+}
+
+main .hero-section .hero-text {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: start;
+  column-gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+main .hero-section .hero-text h1 {
+  color: var(--very-dark-blue);
+  font-weight: 700;
+  font-size: 3.25rem;
+  line-height: 3.5rem;
+  margin: 0.8rem;
+  margin-left: 0;
+  //   border: 1px solid steelblue;
+}
+
+// main .hero-section .hero-text .hero-details {
+//   border: 1px solid steelblue;
+// }
+
+main .hero-section .hero-text .hero-details p {
+  margin-bottom: 2rem;
+  color: var(--dark-grayish-blue);
+  line-height: 1.5rem;
+}
+
+main .hero-section .hero-text .hero-details button {
+  width: 50%;
+  padding: 1rem;
+  border: 0;
+  background-color: var(--soft-red);
+  color: var(--off-white);
+  letter-spacing: 0.25rem;
+  text-transform: uppercase;
+}
+
+main .hero-section .hero-text .hero-details button:hover {
+  background-color: var(--very-dark-blue);
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}

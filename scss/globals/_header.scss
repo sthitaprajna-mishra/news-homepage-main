@@ -1,0 +1,28 @@
+header img {
+  grid-column: span 7;
+  //   border: 1px solid green;
+}
+
+header #hamburger-menu {
+  display: none;
+}
+
+header ul {
+  grid-column: span 5;
+  display: flex;
+  //   border: 1px solid blueviolet;
+  justify-content: space-between;
+  padding: 0;
+  align-items: center;
+}
+
+header li {
+  list-style-type: none;
+  color: var(--dark-grayish-blue);
+}
+
+header li:hover {
+  color: var(--soft-orange);
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
