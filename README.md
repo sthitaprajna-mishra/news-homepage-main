@@ -30,7 +30,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [GitHub URL](https://github.com/sthitaprajna-mishra/news-homepage-main)
-- Live Site URL: [Netlify URL]()
+- Live Site URL: [Netlify URL](https://news-homepage-main-fe-mentor.netlify.app/)
 
 ## My process
 
