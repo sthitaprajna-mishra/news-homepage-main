@@ -29,7 +29,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub URL](https://github.com/sthitaprajna-mishra/news-homepage-main)
+- Solution URL: [FrontendMentor URL](https://www.frontendmentor.io/solutions/news-homepage-main-using-sassscss-6zLQsN1T48)
 - Live Site URL: [Netlify URL](https://news-homepage-main-fe-mentor.netlify.app/)
 
 ## My process
